@@ -5,6 +5,7 @@ from CDC import logger
 
 STAGE_NAME = 'Prepare Base Model'
 
+
 class PrepareBaseModelTrainingPipeline:
     def __init__(self):
         pass
