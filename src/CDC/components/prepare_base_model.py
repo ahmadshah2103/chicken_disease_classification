@@ -1,6 +1,3 @@
-import os
-import urllib.request as request
-from zipfile import ZipFile
 from pathlib import Path
 from CDC.config.configuration import PrepareBaseModelConfig
 import tensorflow as tf
