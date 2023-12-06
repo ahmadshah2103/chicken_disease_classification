@@ -3,7 +3,7 @@ from CDC.components.training import Training
 from CDC.components.prepare_callbacks import PrepareCallback
 from CDC import logger
 
-STAGE_NAME = 'Model Training'
+STAGE_NAME = 'Training'
 
 
 class ModelTrainingPipeline:
